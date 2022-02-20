@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Afolabi Cardoso
-- 👀 I’m interested in Data Science, Machine Learnning and Autonomous Systems
+- 👀 I am a in Data Scienctist,interested in Machine Learnning and Autonomous Systems
 - 🌱 I’m currently learning Data Science at General Assembly
 - 💞️ I’m looking to collaborate on project that improves lives of all
 - 📫 Best to reach me by email: cardosoafolabi@yahoo.com
