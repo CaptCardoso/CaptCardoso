@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Afolabi Cardoso
+- 👋 Hi, my name is Afolabi Cardoso
 - 👀 I am a in Data Scienctist,interested in Machine Learnning and Autonomous Systems
 - 🌱 I’m currently learning Data Science at General Assembly
 - 💞️ I’m looking to collaborate on project that improves lives of all
