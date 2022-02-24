@@ -1,5 +1,7 @@
-- 👋 Hi, my name is Afolabi Cardoso
-- 👀 I am a in Data Scienctist,interested in Machine Learnning and Autonomous Systems
-- 🌱 I’m currently learning Data Science at General Assembly
-- 💞️ I’m looking to collaborate on project that improves lives of all
-- 📫 Best to reach me by email: cardosoafolabi@yahoo.com
+### About me
+
+Former Helicopter Pilot pivoting into Data Science/ Machine Learning,
+ 
+I am looking for opportunities in the Aerospace Industry to be able to combine my years of experience as a Helicopter Pilot and my expertise in Data Science to help proffer solutions and develop exceptional products.
+
+As a lifelong learner, I am always looking for opportunities to sharpen my tools by challenging myself to be exceptional.
