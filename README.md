@@ -20,6 +20,6 @@ My name is **Afolabi Cardoso** and you're welcome to my github page.
 
 - [Ames housing project](https://github.com/CaptCardoso/Ames-Housing-Project): A **linear regression** model for predicting the sale price of a house in Ames, IOWA.
 
-- [Subreddit Classifier](https://github.com/CaptCardoso/Subreddit-Classifier): A logisitc regression model for classifying a starwars or startrek post on reddit.
+- [Subreddit Classifier](https://github.com/CaptCardoso/Subreddit-Classifier): A **logisitc regression** model for classifying a starwars or startrek post on reddit.
 
 
