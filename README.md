@@ -1,6 +1,5 @@
-Hello, 
 
-My name is **Afolabi Cardoso** and you're welcome to my github page.
+# **Hello,**  **I'm Afolabi Cardoso** 
 
 ## About me
 
