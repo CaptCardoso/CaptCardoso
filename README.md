@@ -23,6 +23,7 @@ I am also open to contributing my data science skill into open source projects a
 ---
 #### Skills
 **Languages:** Python, SQL, JavaScript, HTML, CSS
+
 **Libraries/Tools:** Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, Jupyter Notebook, Git/Github
 
 ---
