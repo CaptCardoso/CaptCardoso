@@ -20,6 +20,10 @@ I am passionate about creating innovative technologies that will be used to impr
 
 I am also open to contributing my data science skill into open source projects and charity work
 
+---
+#### Skills
+Languages: Python, SQL, JavaScript, HTML, CSS
+Libraries/Tools: Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, Jupyter Notebook, Git/Github
 
 ---
 #### Hobbies
