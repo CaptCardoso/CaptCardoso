@@ -2,7 +2,7 @@
 <img src = "images/Brown Wood Minimalist Profile LinkedIn Banner.png">
    
 ---
-#### About me
+### About me
 
 **Data Scientist** and former Helicopter Pilot. Born in Nigeria and now lives in the US. I have a Bachelors degree in Electrical Engineering from the Univeristy of Lagos, Nigeria. 
 Currently a **Data Science Fellow at General Assembly.** 
@@ -11,7 +11,7 @@ I am passionate about creating innovative technologies that will be used to impr
 I am also open to contributing my data science skill into open source projects and charity work
 
 ---
-#### Projects
+### Projects
 
 - [Ames housing project](https://github.com/CaptCardoso/Ames-Housing-Project): A **linear regression** model for predicting the sale price of a house in Ames, IOWA.
 
@@ -19,18 +19,18 @@ I am also open to contributing my data science skill into open source projects a
 - [Subreddit Classifier](https://github.com/CaptCardoso/Subreddit-Classifier): A **logisitc regression** model for classifying a starwars or startrek post on reddit.
 
 ---
-#### Career
+### Career
 - Data Science Fellow at General Assembly
 - Helicopter Pilot at Bristow Helicopters
 
 ---
-#### Skills
+### Skills
 **Languages:** Python, SQL, JavaScript, HTML, CSS
 
 **Libraries/Tools:** Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, Keras, TensorFlow, Jupyter Notebook, Git/Github
 
 ---
-#### Hobbies
+### Hobbies
 
 - Running, hiking, muay thai
 - Sci-fi movies i.e Matrix, Starwars, Dune
