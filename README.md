@@ -17,8 +17,8 @@ I am also open to contributing my data science skill into open source projects a
 
 - [Subreddit Classifier](https://github.com/CaptCardoso/Subreddit-Classifier): **Natural Language Processing, Sentiment Analysis** Using the Pushshift API, I gathered 1000 posts from Star Wars and Star Trek subreddits each. I designed a logistic regression model to classify which subreddit a new post belonged to.
 
-- [Afrobeats Music Recommendation System](https://github.com/CaptCardoso/Afrobeats-Recommender-System) – **Kmeans Clustering, Classification, PCA** 
-Music recommendation system that recommends an Afrobeats playlist that closely matches any given playlist. Using the Spotify API, I fetched 5000 Afrobeats songs, based on their musical features I developed a K-means clustering algorithm that grouped similar songs together. 
+- [Afrobeats Music Recommendation System](https://github.com/CaptCardoso/Afrobeats-Recommender-System) – **Clustering, Cosine Similarity, PCA** 
+Music recommendation system that recommends an Afrobeats playlist that closely matches any given playlist. Using the Spotify API, I fetched 1500 Afrobeats songs, based on their musical features I used K-means clustering and cosine similarity to group songs with similar features. I built a [Streamlit app](https://share.streamlit.io/captcardoso/afrobeats-recommender-system/streamlit/app.py) for more practical use of the recommender.
 
 
 ### Career
