@@ -21,6 +21,8 @@ Music recommendation system that recommends an Afrobeats playlist that closely m
 
 
 ### Career
+- Data Engineer at MyDataProduct
+- Data Engineer/ Analyst at Divercity
 - Data Science Fellow at General Assembly
 - Helicopter Pilot at Bristow Helicopters
 
