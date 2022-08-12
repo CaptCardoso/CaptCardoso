@@ -4,11 +4,10 @@
 ---
 ### About me
 
-**Data Scientist** and former Helicopter Pilot. Born in Nigeria and now lives in the US. I have a Bachelors degree in Electrical Engineering from the Univeristy of Lagos, Nigeria. 
-Currently a **Data Science Fellow at General Assembly.** 
+**Data Engineer** and former Helicopter Pilot. Born in Nigeria but now resides in Maryland, US. I have a Bachelors degree in Electrical Engineering from the Univeristy of Lagos and I am currently pursuing a Masters degree in Computer Science from Arizona State University. 
 
 I am passionate about creating innovative technologies that will be used to improve quality of life. I am looking for a opportunities to work with in a team passionate about this.
-I am also open to contributing my data science skill into open source projects and charity work
+I am also open to contributing my software and data engineering skill into open source projects and charity work
 
 ---
 ### Projects
